@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Mulidisplay=swap");
+@import url("https://fonts.googleapis.com/css2?family=Muli&display=swap");
 
 :root {
   --line-border-fill: #3498db;
@@ -72,8 +72,8 @@ body {
 
 .circle.active {
   border-color: var(--line-border-fill);
-  /* background-color: var(--line-border-fill);
-  color: #fff; */
+  background-color: var(--line-border-fill);
+  color: #fff;
 }
 
 .btn {
