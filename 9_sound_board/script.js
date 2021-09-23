@@ -25,7 +25,7 @@ function stopSong(){
     // })
 
     sounds.forEach(sound => {
-        document.getElementById(sound).pause()
-        document.getElementById(sound).currentTime = 0
+        document.getElementById(sound).load()
+        // document.getElementById(sound).currentTime = 0
     })
 }
