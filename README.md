@@ -11,4 +11,3 @@
 7. [Split Landing Page](7_split_landing_page/)
 8. [Form Wave Animation](8_form_wave_animation/)
 9. [Sound Board](9_sound_board/)
-10. [Progress](2_progress_steps/)
