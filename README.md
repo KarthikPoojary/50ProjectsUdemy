@@ -11,3 +11,7 @@
 7. [Split Landing Page](7_split_landing_page/)
 8. [Form Wave Animation](8_form_wave_animation/)
 9. [Sound Board](9_sound_board/)
+
+Project Link: [https://github.com/karthikpoojary/50ProjectsUdemy](https://github.com/karthikpoojary/50ProjectsUdemy)
+
+Github Pages: [https://karthikpoojary.github.io/50ProjectsUdemy/](https://karthikpoojary.github.io/50ProjectsUdemy/)
