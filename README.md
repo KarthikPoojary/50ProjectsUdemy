@@ -2,9 +2,9 @@
 
 <details open="open">
   <summary>List of Projects</summary>
-  <ol>
+  <ul>
     <li>
-      <a href="/1_expanding_cards/">Expanding Cards</a>
+      <a href="50ProjectsUdemy/1_expanding_cards/">Expanding Cards</a>
     </li>
- </ol>
+ </ul>
 </details>
